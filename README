@@ -1,8 +1,15 @@
-Welcome to your Appcelerator Titanium Mobile Project
+## Description
 
-This is a blank project.  Start by editing your application's app.js to
-make your first mobile project using Titanium.
+自分のフォロワーがファボをしたツイートを一覧で見る事ができるTwitterアプリ。
+友人の話についていけない時に、このリストを見ればある程度話を合わせる事はできるはず。
 
+## Anything Else
+
+Appcelerator公式HP:http://www.appcelerator.com<br>
+
+## Author
+
+[@momiji_H](https://twitter.com/momiji_H)
 
 
 ----------------------------------
@@ -15,3 +22,5 @@ Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
 
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
+
+# Favor
