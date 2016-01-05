@@ -1,3 +1,6 @@
+
+# Favor
+
 ## Description
 
 自分がフォローした人がファボをしたツイートを一覧で見る事ができるTwitterアプリ。
@@ -22,5 +25,3 @@ Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
 
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
-
-# Favor
